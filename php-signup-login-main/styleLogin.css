@@ -1,0 +1,173 @@
+* 
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: black;
+}
+
+div.container{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	background-color: darkorange;
+	padding: 30px;
+	box-shadow: 0  10px 500px -10px white;
+}
+
+div.container div.form{
+	width: 270px;
+	margin-right: 30px;
+}
+
+div.container div.form h2{
+	color: black;
+	margin-bottom: 20px;
+
+}
+
+div.container div.form input{
+	border: none;
+	outline: none;
+	border-radius: 0;
+	width: 100%;
+	border-bottom: 2px solid;
+	margin-bottom: 25px;
+	padding: 7px;
+	font-size: 14px;
+}
+
+div.container div.form button{
+color: white;
+background-color: black;
+border: none;
+outline: none;
+border-radius: 2px;
+font-size: 14px;
+padding:  5px 12px;
+font-weight: 500;
+}
+
+
+div.container div.image img {
+	 width: 300px;
+
+}
+.text h2{
+ 	font-size: 50px;
+ 	font-family: 'Great Vibes', sans-serif;
+ 	font-weight: 100px;
+ 	letter-spacing: 2px;
+ 	line-height: 50px;
+ 	 transform: translateY(75%);
+
+ }
+ * 
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: black;
+}
+
+div.container{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	background-color: darkorange;
+	padding: 30px;
+	box-shadow: 0  10px 500px -10px white;
+}
+
+div.container div.form{
+	width: 270px;
+	margin-right: 30px;
+}
+
+div.container div.form h2{
+	color: black;
+	margin-bottom: 20px;
+
+}
+
+div.container div.form input{
+	border: none;
+	outline: none;
+	border-radius: 0;
+	width: 100%;
+	border-bottom: 2px solid;
+	margin-bottom: 25px;
+	padding: 7px;
+	font-size: 14px;
+}
+
+div.container div.form button{
+color: white;
+background-color: black;
+border: none;
+outline: none;
+border-radius: 2px;
+font-size: 14px;
+padding:  5px 12px;
+font-weight: 500;
+}
+
+
+div.container div.image img {
+	 width: 300px;
+
+}
+.text h2{
+ 	font-size: 50px;
+ 	font-family: 'Great Vibes', sans-serif;
+ 	font-weight: 100px;
+ 	letter-spacing: 2px;
+ 	line-height: 50px;
+ 	 transform: translateY(75%);
+
+ }
+
+ body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: black;
+
+}
+
+.text {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: darkorange;
+  font-size: 30px;
+}
+
+p {
+  color: darkorange;
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
